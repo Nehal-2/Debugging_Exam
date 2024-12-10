@@ -1,0 +1,12 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sim_1/new/tb_counter_4bit.sv,1733818949,systemVerilog,,,,tb_counter_4bit,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sim_1/new/tb_latch.sv,1733817529,systemVerilog,,,,tb_latch,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter-II/counter_4bit.sv,1733819270,systemVerilog,,/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sim_1/new/tb_counter_4bit.sv,,counter_4bit_2,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/counter_4bit.sv,1733818541,systemVerilog,,/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv,,counter_4bit,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv,1733815509,systemVerilog,,/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv,1733817331,systemVerilog,,/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sources_1/imports/4-bit-counter/mux2x1.sv,1733812975,systemVerilog,,/home/it/DigitalSystemDesign/debugging_exam/debugging_exam/debugging_exam.srcs/sim_1/new/tb_counter_4bit.sv,,mux2x1,,,,,,,,
